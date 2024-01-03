@@ -1,0 +1,7 @@
+{
+    "functions": {
+        "src/**/*.{js,ts,jsx,tsx}": {
+            "maxDuration": 10
+        }
+    }
+}
